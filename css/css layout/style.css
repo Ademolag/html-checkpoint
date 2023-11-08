@@ -135,3 +135,8 @@ nav ul li{
     display: flex !important;
     justify-content: space-around;
 }
+
+ header{
+    display: flex;
+    padding: 0%;
+ }
